@@ -11,7 +11,7 @@ const about = {
   name: "Koffi Hessou",
   role: "Front End Engineer",
   description:
-    "I am a junior software developer. I will ensure the best results through intuitive programming, efficient functionalities, and proper diagnoses of issues in order to ensure swift resolution of problems..",
+    "I am a junior software developer. I will ensure the best results through intuitive programming, efficient functionalities, and proper diagnoses of issues in order to ensure swift resolution of problems.",
   resume: resume,
   social: {
     linkedin: "https://www.linkedin.com/in/koffi-hessou-1b532b212/",
@@ -24,7 +24,7 @@ const projects = [
     name: "Book Library",
     picture: bookImg,
     description:
-      "This application is a virtual Book Library, in this application users are able to search for any book using the google books API and create a bookshelf of all the books they want to read and are even able to see what others are reading as well",
+      "This application is a virtual Book Library, in this application users are able to search for any book using the google books API and create a bookshelf of all the books they want to read and are even able to see what others are reading as well.",
     stack: [
       "React",
       "Node.js",
