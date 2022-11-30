@@ -58,7 +58,7 @@ const projects = [
     name: "Issue Tracker ",
     picture: issueTracker,
     description:
-      "Built a complete CRUD application where users are able to log in Through JWT AUTH, the application also lets users create tickets where other users can share their thoughts on how to solve the tickets and lets you drag the ticket to another section to determine its status this application also uses AWS s3 bucket to store user images.",
+      "Built a complete CRUD application where users are able to log in Through JWT AUTH, the application also lets users create tickets where other users can share their thoughts on how to solve the tickets and lets you drag the ticket to another section to determine its status this application also uses AWS s3 bucket to store user images",
     stack: [
       "React",
       "Node.js",
