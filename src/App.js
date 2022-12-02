@@ -8,6 +8,7 @@ import ScrollToTop from "./components/ScrollToTop/ScrollToTop";
 import Contact from "./components/Contact/Contact";
 
 import "./App.css";
+import VideosComp from "./components/VideosComp/VideosComp";
 
 const App = () => {
   const [{ themeName }] = useContext(ThemeContext);
@@ -17,6 +18,7 @@ const App = () => {
       <Header />
       <main>
         <About />
+        <VideosComp />
         <Projects />
         <Skills />
         <Contact />

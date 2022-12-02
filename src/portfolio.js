@@ -1,7 +1,8 @@
 import bookImg from "./image/booksimg.jpg";
-import issueTracker from "./image/issuetracker.jpg";
+import issueTracker from "./image/Image 12-2-22 at 2.41 PM.jpg";
 import mutantGamesimg from "./image/mutantGames.jpg";
 import resume from "./documents/koffiresume.pdf";
+
 const header = {
   homepage: "/",
   title: "KH.",
