@@ -29,6 +29,7 @@ const projects = [
     stack: [
       "React",
       "Node.js",
+      "TypeScript",
       "Google Book API",
       "JWT AUTH",
       "Express",
