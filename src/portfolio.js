@@ -1,5 +1,6 @@
 import bookImg from "./image/booksimg.jpg";
 import issueTracker from "./image/Image 12-2-22 at 2.41 PM.jpg";
+import respo from "./image/respoAi.png";
 import mutantGamesimg from "./image/mutantGames.jpg";
 import resume from "./documents/koffiresume.pdf";
 
@@ -73,6 +74,16 @@ const projects = [
     ],
     sourceCode: "https://github.com/Bestnogm1/Issue-Tracker",
     livePreview: "https://scintillating-sherbet-a5313a.netlify.app/",
+  },
+  {
+    name: "RespoAi ",
+    picture: respo,
+    description:
+      "RespoAI is a browser extension that helps you create thoughtful and effective responses with the click of a button.⚡The #1 Growth Hacking Tool that utilizes a browser extension to help you create thoughtful and effective responses. ",
+    stack: ["Chrome", "Node.js", "Express", "React", "MongoDB"],
+
+    livePreview:
+      "https://chrome.google.com/webstore/detail/respoai/bedkffdgfejokiohjhkehankmamachma",
   },
 ];
 
